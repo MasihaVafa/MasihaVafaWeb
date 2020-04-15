@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "160ca2323e3c738a3c924e715cbbc36f",
+    "revision": "fcc58af360811862ef234b29852bee30",
     "url": "/MasihaVafaWeb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MasihaVafaWeb/static/css/2.eb6c4891.chunk.css"
   },
   {
-    "revision": "9e291acc0da46a77cc6b",
+    "revision": "1c6a8d75bd8f634b8e17",
     "url": "/MasihaVafaWeb/static/css/main.396baab9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MasihaVafaWeb/static/js/2.8f482e12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e291acc0da46a77cc6b",
-    "url": "/MasihaVafaWeb/static/js/main.7316741c.chunk.js"
+    "revision": "1c6a8d75bd8f634b8e17",
+    "url": "/MasihaVafaWeb/static/js/main.9be7d3d5.chunk.js"
   },
   {
     "revision": "03690b221021ad79cff9",
