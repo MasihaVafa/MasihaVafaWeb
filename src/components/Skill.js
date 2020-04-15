@@ -2,10 +2,10 @@ import React from "react";
 import "react-circular-progressbar/dist/styles.css";
 import {
   CircularProgressbarWithChildren,
-  buildStyles
+  buildStyles,
 } from "react-circular-progressbar";
-const Skill = props => {
-  const {  percentage, img } = props.skill;
+const Skill = (props) => {
+  const { percentage, img } = props.skill;
   return (
     <section className="eachSkill">
       <CircularProgressbarWithChildren
@@ -29,11 +29,11 @@ const Skill = props => {
 
           textColor: "#f88",
           trailColor: "#d6d6d6",
-          backgroundColor: "#3e98c7"
+          backgroundColor: "#3e98c7",
         })}
       >
         {/* Put any JSX content in here that you'd like. It'll be vertically and horizonally centered. */}
-        <img style={{ width: "53%", marginTop: -5 }} src={img} alt="doge" />
+        <img style={{ width: "53%", marginTop: -5 }} src={img} />
       </CircularProgressbarWithChildren>
     </section>
   );
