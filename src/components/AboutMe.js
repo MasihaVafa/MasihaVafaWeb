@@ -9,7 +9,7 @@ const AboutMe = () => {
             <h2>WHO AM I ?</h2>
             <div className="aboutMe-note">
               <p>
-                Software engineer with 5 year of experiment in software
+                Software engineer with 4 year of experiment in software
                 development. Have specialized in front-end development and data
                 analyzing with latest technologies. I like To take a challenging
                 and high performance oriented role in the field of Software
