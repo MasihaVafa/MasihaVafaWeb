@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MasihaVafa.ir/static/css/main.396baab9.chunk.css",
-    "main.js": "/MasihaVafa.ir/static/js/main.0ae5e7c1.chunk.js",
-    "main.js.map": "/MasihaVafa.ir/static/js/main.0ae5e7c1.chunk.js.map",
-    "runtime-main.js": "/MasihaVafa.ir/static/js/runtime-main.e413121c.js",
-    "runtime-main.js.map": "/MasihaVafa.ir/static/js/runtime-main.e413121c.js.map",
-    "static/css/2.eb6c4891.chunk.css": "/MasihaVafa.ir/static/css/2.eb6c4891.chunk.css",
-    "static/js/2.53d23eba.chunk.js": "/MasihaVafa.ir/static/js/2.53d23eba.chunk.js",
-    "static/js/2.53d23eba.chunk.js.map": "/MasihaVafa.ir/static/js/2.53d23eba.chunk.js.map",
-    "index.html": "/MasihaVafa.ir/index.html",
-    "precache-manifest.a6735d86cdeeaac883419227fa1b5343.js": "/MasihaVafa.ir/precache-manifest.a6735d86cdeeaac883419227fa1b5343.js",
-    "service-worker.js": "/MasihaVafa.ir/service-worker.js",
-    "static/css/2.eb6c4891.chunk.css.map": "/MasihaVafa.ir/static/css/2.eb6c4891.chunk.css.map",
-    "static/css/main.396baab9.chunk.css.map": "/MasihaVafa.ir/static/css/main.396baab9.chunk.css.map",
-    "static/js/2.53d23eba.chunk.js.LICENSE.txt": "/MasihaVafa.ir/static/js/2.53d23eba.chunk.js.LICENSE.txt"
+    "main.css": "/MasihaVafaWeb/static/css/main.396baab9.chunk.css",
+    "main.js": "/MasihaVafaWeb/static/js/main.f900c323.chunk.js",
+    "main.js.map": "/MasihaVafaWeb/static/js/main.f900c323.chunk.js.map",
+    "runtime-main.js": "/MasihaVafaWeb/static/js/runtime-main.d0fdc1aa.js",
+    "runtime-main.js.map": "/MasihaVafaWeb/static/js/runtime-main.d0fdc1aa.js.map",
+    "static/css/2.eb6c4891.chunk.css": "/MasihaVafaWeb/static/css/2.eb6c4891.chunk.css",
+    "static/js/2.53d23eba.chunk.js": "/MasihaVafaWeb/static/js/2.53d23eba.chunk.js",
+    "static/js/2.53d23eba.chunk.js.map": "/MasihaVafaWeb/static/js/2.53d23eba.chunk.js.map",
+    "index.html": "/MasihaVafaWeb/index.html",
+    "precache-manifest.4068a14f5789bcc9d1dfe9be99e13a02.js": "/MasihaVafaWeb/precache-manifest.4068a14f5789bcc9d1dfe9be99e13a02.js",
+    "service-worker.js": "/MasihaVafaWeb/service-worker.js",
+    "static/css/2.eb6c4891.chunk.css.map": "/MasihaVafaWeb/static/css/2.eb6c4891.chunk.css.map",
+    "static/css/main.396baab9.chunk.css.map": "/MasihaVafaWeb/static/css/main.396baab9.chunk.css.map",
+    "static/js/2.53d23eba.chunk.js.LICENSE.txt": "/MasihaVafaWeb/static/js/2.53d23eba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e413121c.js",
+    "static/js/runtime-main.d0fdc1aa.js",
     "static/css/2.eb6c4891.chunk.css",
     "static/js/2.53d23eba.chunk.js",
     "static/css/main.396baab9.chunk.css",
-    "static/js/main.0ae5e7c1.chunk.js"
+    "static/js/main.f900c323.chunk.js"
   ]
 }
