@@ -101,12 +101,12 @@ export const DataAnalyse = [
     id: 1,
     skillName: "Tableau",
     percentage: "75",
-    img: "./img/Tableau.svg",
+    img: "./img/tableau.svg",
   },
   {
     id: 2,
     skillName: "SPSS",
     percentage: "70",
-    img: "./img/SPSS.svg",
+    img: "./img/spss.svg",
   },
 ];
