@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MasihaVafaWeb/precache-manifest.0aa004ef4615624d86d1f8c7c7b83d30.js"
+  "/MasihaVafaWeb/precache-manifest.0c371103227d6d6d463c08302db6cab4.js"
 );
 
 self.addEventListener('message', (event) => {
