@@ -6,8 +6,8 @@ const { TabPane } = Tabs;
 
 const SkillsSection = () => {
   const [tabPosition, setTabPosition] = useState("left");
+  const [screenSize, setScreenSize] = useState(window.innerWidth);
   const changeTabPosition = () => {
-    const screenSize = window.innerWidth;
     const result = screenSize <= 800 ? "top" : "left";
     setTabPosition(result);
   };
