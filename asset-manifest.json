@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MasihaVafaWeb/static/css/main.396baab9.chunk.css",
-    "main.js": "/MasihaVafaWeb/static/js/main.9be7d3d5.chunk.js",
-    "main.js.map": "/MasihaVafaWeb/static/js/main.9be7d3d5.chunk.js.map",
+    "main.js": "/MasihaVafaWeb/static/js/main.f05fd8b3.chunk.js",
+    "main.js.map": "/MasihaVafaWeb/static/js/main.f05fd8b3.chunk.js.map",
     "runtime-main.js": "/MasihaVafaWeb/static/js/runtime-main.d0fdc1aa.js",
     "runtime-main.js.map": "/MasihaVafaWeb/static/js/runtime-main.d0fdc1aa.js.map",
     "static/css/2.eb6c4891.chunk.css": "/MasihaVafaWeb/static/css/2.eb6c4891.chunk.css",
     "static/js/2.8f482e12.chunk.js": "/MasihaVafaWeb/static/js/2.8f482e12.chunk.js",
     "static/js/2.8f482e12.chunk.js.map": "/MasihaVafaWeb/static/js/2.8f482e12.chunk.js.map",
     "index.html": "/MasihaVafaWeb/index.html",
-    "precache-manifest.0aa004ef4615624d86d1f8c7c7b83d30.js": "/MasihaVafaWeb/precache-manifest.0aa004ef4615624d86d1f8c7c7b83d30.js",
+    "precache-manifest.0c371103227d6d6d463c08302db6cab4.js": "/MasihaVafaWeb/precache-manifest.0c371103227d6d6d463c08302db6cab4.js",
     "service-worker.js": "/MasihaVafaWeb/service-worker.js",
     "static/css/2.eb6c4891.chunk.css.map": "/MasihaVafaWeb/static/css/2.eb6c4891.chunk.css.map",
     "static/css/main.396baab9.chunk.css.map": "/MasihaVafaWeb/static/css/main.396baab9.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.eb6c4891.chunk.css",
     "static/js/2.8f482e12.chunk.js",
     "static/css/main.396baab9.chunk.css",
-    "static/js/main.9be7d3d5.chunk.js"
+    "static/js/main.f05fd8b3.chunk.js"
   ]
 }
