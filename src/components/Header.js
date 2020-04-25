@@ -13,20 +13,15 @@ const Header = () => {
 
   return (
     <div className="row">
-      <nav className="col-md-12 navbar navbar-expand-sm navbar-dark center  ">
-        <a className="col-md-4 navbar-brand ml-0 masihaVafa  d-none d-md-block">
+      <nav className="col-md-12 navbar navbar-expand-sm navbar-dark justify-content-center  ">
+        <a className="col-md-4 navbar-brand ml-0 masihaVafaNav  d-none d-md-block">
           Masiha Vafa
         </a>
 
-        <div className="  justify-content-center ">
+        <div className=" col-md-8  justify-content-center ">
           <ul className="navbar-nav ">
             <li className=" nav-item  ">
-              <a
-                name="about"
-                onClick={playScroll}
-                className="nav-link"
-                href="#"
-              >
+              <a name="about" onClick={playScroll} className="nav-link">
                 About Me
               </a>
             </li>

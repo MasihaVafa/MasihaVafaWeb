@@ -15,18 +15,13 @@ const BriefIntro = () => {
           <div className="row ">
             <div className="hello  col-md-6 ">
               <div>
-                <h2>HELLO EVERYBODY</h2>
-                <br />
-                <h2>I AM</h2>
-                <br />
-                <h1>
-                  <b> MASIHA VAFA </b>
-                </h1>
                 <br />
                 <br />
-                <h2>SOFTWARE DEVELOPER</h2>
-                <h2>&</h2>
-                <h2>DATA ANALYSIS</h2>
+                <h1 className="shine">MASIHA VAFA</h1>
+                <br />
+                <h5 className="text-light">SOFTWARE DEVELOPER </h5>
+                <h5 className="text-light"> & </h5>
+                <h5 className="text-light">DATA ANALYSIS </h5>
               </div>
             </div>
             <div className="col-md-6 d-flex justify-content-center">

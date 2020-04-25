@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import Blog from "./components/BlogWrapper";
 import Home from "./LandingWrapper";
-import ContactsOnMobile from "./components/ContactsOnMobile";
+
 function App() {
   return (
     <Router>
@@ -12,7 +12,6 @@ function App() {
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/blog" component={Blog} />
-          <Route exact path="/fab" component={ContactsOnMobile} />
         </Switch>
       </div>
     </Router>

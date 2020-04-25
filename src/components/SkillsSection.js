@@ -12,6 +12,12 @@ const SkillsSection = () => {
     setTabPosition(result);
   };
   useEffect(changeTabPosition, []);
+
+  const resize = () => {
+    window.addEventListener("resize", setScreenSize(window.innerWidth));
+    console.log("window screen is : " + screenSize);
+  };
+  useEffect(resize, []);
   return (
     <div>
       <div className="container-fluid">
