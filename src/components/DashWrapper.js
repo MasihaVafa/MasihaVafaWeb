@@ -1,5 +1,5 @@
 import React from "react";
-import Skill from "./Skill";
+import Skill from "./skills/Skill";
 const DashWrapper = (props) => {
   return (
     <div className="col-md-10  web-development ">

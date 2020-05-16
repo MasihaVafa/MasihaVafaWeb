@@ -9,6 +9,9 @@ const Header = () => {
     if (event.target.name === "skills") {
       jump(".skills-banner");
     }
+    if (event.target.name === "projects") {
+      jump(".projectSection");
+    }
   };
 
   return (
@@ -31,7 +34,9 @@ const Header = () => {
               </a>
             </li>
             <li className=" nav-item ml-4">
-              <a className="nav-link">Project</a>
+              <a name="projects" onClick={playScroll} className="nav-link">
+                Projects
+              </a>
             </li>
             <li className=" nav-item ml-4">
               <a className="nav-link">Contact</a>
